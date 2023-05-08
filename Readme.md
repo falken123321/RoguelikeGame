@@ -17,5 +17,5 @@ https://www.youtube.com/watch?v=0tDPxNB2JNs&ab_channel=JakeMakesGames
 Kunne ikke få dette at virke, men der vil i bilag ligge et runnable build.
 
 Assets: 
-https://assetstore.unity.com/packages/audio/sound-fx/shooting-sound-177096
+https://assetstore.unity.com/packages/audio/sound-fx/shooting-sound-177096  
 https://www.youtube.com/watch?v=IRHhMWKrbyo&ab_channel=mommasboy
